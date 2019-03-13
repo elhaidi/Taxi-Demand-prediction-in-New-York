@@ -1,4 +1,4 @@
-# Taxie Demande Prediction in New York
+# Taxi Demande Prediction in New York
 
 ## The objective
 
